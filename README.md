@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdamBures
 - 👀 I’m interested in programming, politics, science and game dev currently.
 - 🌱 I’m currently learning game dev and machine learning.
-- 📫 How to reach me just messeage me on Twitter.
+- 📫 How to reach me? Just messeage me on Twitter.
 - 🦖 Trying to create game in Pascal right now
 
 <!---
